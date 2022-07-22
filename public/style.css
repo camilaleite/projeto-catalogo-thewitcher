@@ -1,0 +1,64 @@
+@import url("https://fonts.google.com/specimen/Open+Sans?query=sans");
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1.4vw;
+}
+body {
+  height: 100vh;
+  background-image: url("https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=2aa22924-402c-4d35-bcf9-2acd27754d88&api_key=CometServer1&access_token=1637813441_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_a304ecb5b441053c4525239ba55cff3efc90ef2a");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.logo-simbolo {
+  padding-left: 6vw;
+  padding-top: 1.8vh;
+  display: inline-block;
+}
+.simbolo {
+  width: 5vw;
+}
+.logo-homem {
+  height: 81vh;
+  background-image: url("https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=7a8c854a-a5c6-4f77-bb53-8c7f1154222c&api_key=CometServer1&access_token=1637813441_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_a304ecb5b441053c4525239ba55cff3efc90ef2a");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.lista {
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 7.84vh;
+  padding-left: 48vw;
+}
+li {
+  color: white;
+  display: inline;
+}
+.titulo-projeto {
+  color: white;
+  vertical-align: top;
+  display: inline-block;
+  padding-left: 3vw;
+  padding-top: 7.84vh;
+}
+.logo-letra {
+  padding-top: 35vh;
+  padding-left: 37vw;
+}
+.letra {
+  height: 23vh;
+}
+.logo-botao {
+  padding-top: 2vh;
+  padding-left: 5vw;
+}
+.botao {
+  height: 6vh;
+}
+li:hover {
+  cursor: pointer;
+}
+.botao:hover {
+  cursor: pointer;
+}
